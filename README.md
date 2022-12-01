@@ -45,12 +45,12 @@ e.g.
 8. The forms in the app should be [Rect Hook Form](https://www.react-hook-form.com/) and have validation
 
 ### Resources to use (Required)
-a. Framework [Mantine](https://mantine.dev/)
-b. Styles [TailwindCss](https://tailwindcss.com/)
-c. State Management [Redux Toolkit](https://redux-toolkit.js.org/)
-d. Validation [Yub](https://www.npmjs.com/package/yup) - Not Mandatory
-e. Http request [Axios](https://github.com/axios/axios)
-f. From [React Hook Form](https://www.react-hook-form.com/)
+- Framework [Mantine](https://mantine.dev/)
+- Styles [TailwindCss](https://tailwindcss.com/)
+- State Management [Redux Toolkit](https://redux-toolkit.js.org/)
+- Validation [Yub](https://www.npmjs.com/package/yup) - Not Mandatory
+- Http request [Axios](https://github.com/axios/axios)
+- From [React Hook Form](https://www.react-hook-form.com/)
 
 ### Extra Resources
 - [Lodash](https://lodash.com/docs/)
