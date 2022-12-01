@@ -51,6 +51,7 @@ e.g.
 - Validation [Yub](https://www.npmjs.com/package/yup) - Not Mandatory
 - Http request [Axios](https://github.com/axios/axios)
 - From [React Hook Form](https://www.react-hook-form.com/)
+- Use REST apis from [Firebase Database REST API](https://firebase.google.com/docs/reference/rest/database) or [Mockoon](https://mockoon.com/) or any other mock api
 
 ### Extra Resources
 - [Lodash](https://lodash.com/docs/)
